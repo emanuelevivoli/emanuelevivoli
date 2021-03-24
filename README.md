@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-I'm a Master Student @UNIFI, Florence, in Computer Science and Deep Learning.
+I'm a 🎓 Master Student @UNIFI, Florence, in Computer Science, 🔥 Deep learning and 🧩 Pattern recognition.
+
+Great attitude in ⚙️ problem solving, I'm currently building high productivity habits for ⌛ time management and 📚 deep work. 
+
+I love 💡 thinking and I'm the owner of a 🚐 VW LT 28 van enjoing 🛠️ restoring it.
+
+I love beein outside in the 🌱 nature.
+
+Some more info about me:
 
 - 🔭 I’m currently looking for **Deep Learning** works that stimulate me!
 - 🌱 I’m currently learning **NLI sentence/scientific-paper embedding** state-of-the-art
