@@ -18,7 +18,10 @@ Some more info about me:
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=emanuelevivoli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelevivoli&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+    
 </div>
+
 
 
 # Tour of my Repos
