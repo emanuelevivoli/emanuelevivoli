@@ -40,9 +40,9 @@ Some more info about me:
 
         ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
         ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-        [![Generic badge](https://img.shields.io/badge/🐶-Akita-orange.svg)](https://shields.io/)
-        [![Generic badge](https://img.shields.io/badge/🚀-NgRx-purple.svg)](https://shields.io/)
-        [![Generic badge](https://img.shields.io/badge/✊-Ngxs-blue.svg)](https://shields.io/)
+        ![Generic badge](https://img.shields.io/badge/🐶-Akita-orange.svg)
+        ![Generic badge](https://img.shields.io/badge/🚀-NgRx-purple.svg)
+        ![Generic badge](https://img.shields.io/badge/✊-Ngxs-blue.svg)
         ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=plastic&logo=reactivex&logoColor=white)
 
         The project was to compare modes to obtain state-management in Angular applications. We used plain rxjs, Akita, NgRx and NgXs as in [this blog](https://ordina-jworks.github.io/angular/2018/10/08/angular-state-management-comparison.html) and apply the best one in the project [segreteria-3smb](https://github.com/emanuelevivoli/segreteria-3smb).
@@ -148,7 +148,8 @@ Some more info about me:
     - [Cs_to_Py](https://github.com/emanuelevivoli/Cs_to_Py) 
     - [ClientCs_ServerPy](https://github.com/emanuelevivoli/ClientCs_ServerPy)
     
-        ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+        ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) 
+        ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
         
         Bridge for interconnecting position coordinates streams from eye tracker from C# SDK to python - _Italian_
 
@@ -170,13 +171,16 @@ Some more info about me:
 - **(2018) Bachelor's Thesis @ UNIFI**
     - [HWR_IAM](https://github.com/emanuelevivoli/HWR_IAM)
 
-        ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+        ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
+        ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
         Hand Writing Recognition on IAM dataset and CNN network training and fine-tuning processes. 
  
     - [Thesis_BHK](https://github.com/emanuelevivoli/Thesis_BHK)
 
-        ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
+        ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
+        ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+        ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
 
         Bachelor's thesis main repository, containing:
 
@@ -249,37 +253,43 @@ Some more info about me:
 - **(2016) Algorithm and Data structures exam @ UNIFI**
     - [SCC_es7](https://github.com/emanuelevivoli/SCC_es7)
     
-        ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+        ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) 
+        ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
         Implementation and description of Strongly Connected Components - _Italian_ 
         
     - [Edit_Distance_es6](https://github.com/emanuelevivoli/Edit_Distance_es6) 
         
-        ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+        ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) 
+        ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
         Implementation and description of Edit distance and n-gram mechanisms - _Italian_
 
     - [BST_vs_RBT_es5](https://github.com/emanuelevivoli/BST_vs_RBT_es5)
         
-        ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+        ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) 
+        ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
         Implementation, description and comparison of Binary Search Tree and Red Black Tree - _Italian_
 
     - [Hash_es4](https://github.com/emanuelevivoli/Hash_es4) 
         
-        ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+        ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) 
+        ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
         Implementation and description of Hashmap and collision resolution mechanisms - _Italian_
 
     - [InsertionSort_vs_MergeSort_es3](https://github.com/emanuelevivoli/InsertionSort_vs_MergeSort_es3) 
         
-        ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+        ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) 
+        ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
         
         Implementation and comparison of Insertion- and Merge-sort algorithms - _Italian_
         
     - [InsertionSort_and_BinarySearch_es2](https://github.com/emanuelevivoli/InsertionSort_and_BinarySearch_es2)  
         
-        ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+        ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) 
+        ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
         
         Implementation of Insertion Sort and Binary Search Algorithms - _Italian_
     
