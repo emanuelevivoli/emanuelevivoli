@@ -2,6 +2,14 @@
 
 I'm a Research Fellow @UNIFI, Florence, passionate about **Computer Science, Deep learning and Pattern recognition**.
 
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)](https://www.github.com/emanuelevivoli)
+[![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
+](https://twitter.com/emanuelevivoli)
+[![Tweeting](https://badgen.net/badge/icon/kaggle?icon=kaggle&label)
+](https://kaggle.com/emanuelevivoli)
+
+
 Some more info about me:
 
 - 📚 I have a great attitude in *Problem solving*, I'm currently building high productivity habits for *time management* and *deep work*.
