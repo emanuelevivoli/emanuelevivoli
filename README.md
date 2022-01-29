@@ -26,6 +26,7 @@ Some more info about me:
 
 Visit my [website](https://emanuelevivoli.github.io) 🚀
 
+<!---
 # long Tour of my Repos
 
 <details><summary>Master's repositories</summary>
@@ -322,3 +323,4 @@ Visit my [website](https://emanuelevivoli.github.io) 🚀
 
 </p>
 </details>
+--->
