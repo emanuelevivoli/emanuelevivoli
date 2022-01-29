@@ -22,7 +22,14 @@ Some more info about me:
 
 
 
-# Tour of my Repos
+# tltr;
+
+Visit my [website](https://emanuelevivoli.github.io) 🚀
+
+# long Tour of my Repos
+
+<details><summary>Master's repositories</summary>
+<p>
 
 ##  Master's repositories
 
@@ -165,10 +172,16 @@ Some more info about me:
 
         A gaze plot displays movement sequence, order and duration of gaze fixation.
 
+</p>
+</details>
+
+<details><summary>Bachelor's repositories</summary>
+<p>
 
 ##  Bachelor's repositories
 
 - **(2018) Bachelor's Thesis @ UNIFI**
+    
     - [HWR_IAM](https://github.com/emanuelevivoli/HWR_IAM)
 
         ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
@@ -189,8 +202,7 @@ Some more info about me:
         - usage of CNNs from **HWR_IAM** (pre-trained and fine-tuned) for classification task (dysgraphia or not)
         - Bachelor Thesis writes in LaTeX
         - Bachelor Thesis slides in LaTeX
-        
-
+    
 - **(2018) Software Engineering exam @ UNIFI**
     - [IngSW-Composite-Adapter](https://github.com/emanuelevivoli/IngSW-Composite-Adapter)
     
@@ -306,3 +318,7 @@ Some more info about me:
         ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
         
         Template Matrix Class with methods and tests - _Italian_
+
+
+</p>
+</details>
