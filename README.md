@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Research Fellow @UNIFI, Florence, passionate about **Computer Science, Deep learning and Pattern recognition**.
+I'm a Research Intern @CVC Barcelona, Spain, passionate about **Computer Vision**, **Natural Language Processing** and **Graph Neural Networks**.
 
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)](https://www.github.com/emanuelevivoli)
@@ -13,16 +13,14 @@ Some more info about me:
 
 - 📚 I have a great attitude in *Problem solving*, I'm currently building high productivity habits for *time management* and *deep work*.
 - 🔭 I’m currently looking for **Deep Learning** works that stimulate me (even a PhD)!
-- 🌱 I’m currently learning **NLP/scientific-paper embedding/table Information Extraction** state-of-the-art
+- 🌱 I’m currently learning **Scene-Text Visual-Question-Answer** and new state-of-the-art **Transformers**
 - 💡 I'm the owner of a VW LT 28 van and I have completely restored it with a friend ([@myvanis_gogh](https://www.instagram.com/myvanis_gogh/) on IG).
 - 🌱 I love beeing outside in the nature, I'm a Scout group leader.
-- 📫 How to reach me: just email me -> vivoli(dot)emanuele(at)gmail(dot)com
+- 📫 How to reach me: just email me -> vivoli(dot)emanuele(at)gmail(dot)com (I'll try to answer)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a new fixation every (or every other) month/months. Recently I'm building high productivity habits! 
 
-
-
-# tltr;
+# tldr;
 
 Visit my [website](https://emanuelevivoli.github.io) 🚀
 
