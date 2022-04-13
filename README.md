@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Research Intern @CVC Barcelona, Spain, passionate about **Computer Vision**, **Natural Language Processing** and **Graph Neural Networks**.
+I'm a Research Intern [@CVC Barcelona](http://www.cvc.uab.es), Spain, passionate about **Computer Vision**, **Natural Language Processing** and **Graph Neural Networks**.
 
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)](https://www.github.com/emanuelevivoli)
