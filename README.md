@@ -7,7 +7,7 @@ I'm a PhD student [@ MICC, Unifi](http://www.micc.unifi.it) in Mutlimodal Learni
 [![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
 ](https://twitter.com/emanuelevivoli)
 [![Kaggle](https://img.shields.io/badge/K-kaggle-blue.svg)](https://kaggle.com/emanuelevivoli)
-
+[![](https://visitcount.itsvg.in/api?id=emanuelevivoli&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 Some more info about me:
 
