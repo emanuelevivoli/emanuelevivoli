@@ -21,7 +21,7 @@ Some more info about me:
 
 # tldr;
 
-Visit my [website](https://emanuelevivoli.github.io) 🚀
+Visit my [website](https://www.emanuelevivoli.me) 🚀
 
 
-[![](https://visitcount.itsvg.in/api?id=emanuelevivoli&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=emanuelevivoli&label=Profile%20Views&color=0&icon=1&pretty=false)](https://www.emanuelevivoli.me)
