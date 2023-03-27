@@ -3,7 +3,7 @@
 # Hi there 👋
 
 
-I'm a PhD student [@ MICC, Unifi](http://www.micc.unifi.it) in Mutlimodal Learning (previously Intern [@CVC Barcelona](http://www.cvc.uab.es), Spain), passionate about **Computer Vision**, **Natural Language Processing** and **Graph Neural Networks**.
+I'm a PhD student [@ MICC, Unifi](http://www.micc.unifi.it) in Multimodal Learning (previously Intern [@CVC Barcelona](http://www.cvc.uab.es), Spain), passionate about **Computer Vision**, **Natural Language Processing** and **Graph Neural Networks**.
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)](https://www.github.com/emanuelevivoli)
 [![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
