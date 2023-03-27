@@ -17,8 +17,8 @@ Some more info about me:
 - 🌱 I’m currently learning **Diffusion Models** and experimenting **LLMs** on my PC.
 
 Apart from working/studying:
-- 📹 I’ve started a youtube channel (in Italian) where I talk about **Deep Learning** and **Ph.D.** ([@lele_with_dots](https://www.youtube.com/lele_with_dots/) on YT).
-- 💡 I'm the owner of a VW LT 28 van and I have completely restored it with a friend ([@myvanis_gogh](https://www.instagram.com/myvanis_gogh/) on IG).
+- 📹 I’ve started a youtube channel (in Italian) where I talk about **Deep Learning** and **Ph.D.** ([@lele_with_dots](https://www.youtube.com/@lele_with_dots) on YT).
+- 💡 I'm the owner of a VW LT 28 van and I have completely restored it with a friend ([@myvanis_gogh](https://www.instagram.com/myvanis_gogh) on IG).
 - 🌱 I love beeing outside in the nature, I was a Scout group leader.
 
 Get in touch:
